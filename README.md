@@ -1,7 +1,6 @@
+<img align="right" width="180" src="https://github.com/user-attachments/assets/6129d3a8-6b20-41a2-a814-3c8c3bb5fe9c" alt="GIF">
 
 ### Hi there, I'm Saúl 👋
-
-<img align="right" width="180" src="https://github.com/user-attachments/assets/6129d3a8-6b20-41a2-a814-3c8c3bb5fe9c" alt="GIF">
 
 I’m a **Machine Learning & Computer Vision** engineer with an interest in **deep learning, image analysis, and AI for real-world applications**. I enjoy solving complex problems using AI, optimizing workflows, and improving the performance of machine learning systems.  
 
