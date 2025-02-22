@@ -15,7 +15,6 @@ I’m a **Machine Learning & Computer Vision** engineer with an interest in **de
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" height='40'/>](https://numpy.org/) &nbsp;
 [<img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/SCIPY_2.svg" height='40'/>](https://scipy.org/) &nbsp;
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" height='40'/>](https://pandas.pydata.org/) &nbsp;
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" height='40'/>](https://matplotlib.org/) &nbsp;
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" height='40'/>](https://git-scm.com/) &nbsp;
 [<img src="https://cdn.worldvectorlogo.com/logos/github-icon-2.svg" height='40'/>](https://github.com/) &nbsp;
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" height='40'/>](https://www.docker.com/) &nbsp;
