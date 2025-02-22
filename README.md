@@ -1,4 +1,4 @@
-<img align="right" width="200" src="https://github.com/user-attachments/assets/6129d3a8-6b20-41a2-a814-3c8c3bb5fe9c" alt="GIF">
+<img align="right" width="180" src="https://github.com/user-attachments/assets/6129d3a8-6b20-41a2-a814-3c8c3bb5fe9c" alt="GIF">
 
 ### Hi there, I'm Saúl 👋
 
